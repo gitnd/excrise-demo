@@ -1,6 +1,7 @@
-这是一个readme.md 文件只是为了测试git
+this is ceshi
 
-==========================
-为了第二次测试 更多的命令
-这是为了测试
-学习更好的使用
+==============
+
+chinese is not suport
+
+use english 
